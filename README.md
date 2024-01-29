@@ -15,7 +15,7 @@
   <h3>About Me!</h3>
   <p>- 🔭 I’m currently working as intern (back-end developer) at Instituto Eldorado.</p>
   <p>- 📚 At college i've been learning Java, OOP and SQL.</p>
-  <p>- 🌱 I’m currently learning TypeScript, Nest.js and PostgreeSQL.</p>
+  <p>- 🌱 I’m currently learning TypeScript, Nest.js and PostgreSQL.</p>
 </div>
 
 #
@@ -26,5 +26,5 @@
   <img align="center" alt="Logo-Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo-Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Logo-Nest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">
-  <img align="center" alt="Logo-PostgreeSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Logo-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
