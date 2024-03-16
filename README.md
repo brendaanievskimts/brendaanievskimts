@@ -5,9 +5,9 @@
 
 <div align="left">
   <h3>About me!</h3>
-  <p>- 🔭 I’m currently working as intern (back-end developer) at Instituto Eldorado.</p>
+  <p>- 🔭 During 2024 college vacation I worked as an intern (back-end developer) at Instituto de Pesquisas Eldorado and learned to develop with TypeScript, NestJS and PostgreSQL.</p>
   <p>- 📚 At college i've been learning Java, OOP and SQL.</p>
-  <p>- 🌱 I’m currently learning TypeScript, Nest.js and PostgreSQL.</p>
+  <p>- 🌱 I’m currently learning Java, C and PostgreSQL.</p>
 </div>
 
 #
