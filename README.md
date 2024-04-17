@@ -7,7 +7,7 @@
   <h3>About me!</h3>
   <p>- 🔭 During 2024 college vacation I worked as an intern (back-end developer) at Instituto de Pesquisas Eldorado and learned to develop with TypeScript, NestJS and PostgreSQL.</p>
   <p>- 📚 At college i've been learning Java, OOP and SQL.</p>
-  <p>- 🌱 I’m currently learning Java, C and NoSQL.</p>
+  <p>- 🌱 I’m currently learning Python and NoSQL.</p>
 </div>
 
 #
