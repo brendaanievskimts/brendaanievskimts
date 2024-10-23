@@ -5,7 +5,7 @@
 
 <div align="left">
   <h3>About me!</h3>
-  <p>- 🔭 During 2024 college vacation I worked as an intern (back-end developer) at Instituto de Pesquisas Eldorado and learned to develop with TypeScript, NestJS and PostgreSQL.</p>
+  <p>- 🔭 During 2024 college vacation I worked as an intern (back-end developer) at Instituto de Pesquisas Eldorado and learned to develop with TypeScript, NestJS and PostgreSQL. I am currently an intern in the IT Academy program at Dell Technologies and I'm learning C# and .NET. </p>
   <p>- 📚 At college i've been learning Java, OOP and SQL.</p>
   <p>- 🌱 I’m currently learning Spring Boot and NoSQL.</p>
 </div>
@@ -15,9 +15,14 @@
 <div style="display: inline_block">
   <h3>Languages and tools 💻</h3>
   <img align="center" alt="Logo-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Logo-Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">          
+  <img align="center" alt="Logo-Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">    
+  <img align="center" alt="Logo-CSharp" height="40" width="50" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  
   <img align="center" alt="Logo-Nest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Logo-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Logo-Dotnet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  
+          
 </div>
 
 #
